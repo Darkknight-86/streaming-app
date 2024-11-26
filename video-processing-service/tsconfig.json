@@ -3,9 +3,9 @@
     /* Language and Environment */
     "target": "ES2022",
     /* Modules */
-    "module": "Node16",
+    "module": "NodeNext", // Changed from Node16
     "rootDir": "src",
-    "moduleResolution": "node16",
+    "moduleResolution": "NodeNext", // Changed from node16
     "baseUrl": "./",
     "paths": {
       "@/*": [

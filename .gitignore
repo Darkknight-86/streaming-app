@@ -139,3 +139,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# video files
+*/src/videos/
